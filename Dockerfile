@@ -42,5 +42,5 @@ RUN \
 COPY root/ /
 
 # ports and volumes
-EXPOSE 8686
+EXPOSE 8787
 VOLUME /config /downloads /books
